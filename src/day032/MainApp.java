@@ -17,7 +17,12 @@ public class MainApp {
         p4.setX(9);
         p4.setY(11);
 
-        for ()
+        int[] sayilar=new int[100];
+
+        Point[] noktalar=new Point[100];
+        for (int i=0;i<100;i++){
+            noktalar[i]=new Point();
+        }
 
         System.out.println("("+p1.getX()+";"+p1.getY()+")");
         System.out.println("("+p2.getX()+";"+p2.getY()+")");
