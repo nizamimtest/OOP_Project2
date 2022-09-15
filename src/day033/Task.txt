@@ -1,0 +1,9 @@
+1.Dikdortken sinifini olusturunuz.
+Sekil sinifindan tiretilmelidi
+2.Genislik ve yukseklik double degiskenlerini tanimlayin
+3.getter\setter
+4.parametreli, parametresiz constructor
+-Butun abstract metotlari implemente ediniz.
+-Alan nasil hesaplaniyor?
+-Cevre nasil hesaplaniyor?
+-Cizim nasil yapiliyor?
