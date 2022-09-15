@@ -1,0 +1,3 @@
+Temel amac soyutlama(abstraction)dir.
+
+1.
