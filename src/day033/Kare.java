@@ -44,5 +44,12 @@ public class Kare extends Sekil{
 
     public void bilgiGoster() {
         System.out.printf("Kenar:%5.2f\tAlan:%5.2f\tCevre:%5.2f\n",kenar,alanHesapla(),cevreHesapla());
+
+    }
+
+    @Override
+    public String toString() {
+        return super.toString();
     }
 }
+
